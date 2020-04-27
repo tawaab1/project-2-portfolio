@@ -16,3 +16,17 @@ author: "Aisea Tawake"
 ## Week Three
 
   This week we are attempting to access the database because we want to know what is stored within it, before starting any code changes. We have also made several user stories and 'bugs' issues to get us started on the app. This sprint I have been assigned to making the login page/ register page more streamlined rather than using redundant pages that link them together. Also fixing a bug issue with the like button.
+
+## Week Four
+  So we have managed to gain access the database after contacting last year's students so we can see what data exists in the database. We also discuss about future sprints and what we are going to be doing over the coming weeks, while we work on the current sprint and issues that we have been assigned to
+
+## Week Five
+  Unexpected circumstances have occured this week halting the ability to work together physically with my collegues. I have sent emails to each of my team members letting them know that I will be available via email, Microsoft Teams and the audio/video chatiing app called Discord if they wish to stay in contact during this lockdown.
+
+## Week Six and Seven
+  Because of the current state of this lockdown, we have been ordered to stay home for 4 weeks before we are able to go back to any tertiary educational facility. The polytechnic has also decided to move the mid-term break early to this week and the next. Work on the project has been halted so our team members are able to gather themselves, and are able to ensure their own personal safety before starting back to work on the project. We have been adviced by our supervisor to work on our portfolios while on break and focus on the project once the second half of the semester starts back again.
+
+## Week Seven 
+  Getting in contact with our client is the utmost priority this week. We want to assure them that we can work around this lockdown. We have showed them assurance by sharing information of what we have done so far, what we will be doing in the future but also taking their concerns into consideration, but also apologizing that it has taken time to respond during the lockdown.
+## Week Eight
+  This week we are starting fresh with a new sprint. I will be focusing my energy to make sure Team standups/meetings are being met, encouraging my collegues during the lockdown and also asking them if there are issues they are having with the project.
