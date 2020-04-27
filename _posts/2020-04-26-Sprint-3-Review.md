@@ -12,7 +12,7 @@ author: "Aisea Tawake"
 
 ## Agile Implementation
 
-  ### Principle 7: Working software is the primary measure of progress.
+### Principle 7: Working software is the primary measure of progress.
 
   With the help of my collegues I also able to obtain a working version of the app. And assigning one of my collegues to write down a step-by-step guide on how to properly run t he development version of the app, we are finally able to progress in the development phase. I am also able to get the development version of the app working not only on my polytechnic machine but also my home, so I can work on the project from whereever. 
 
@@ -22,20 +22,20 @@ author: "Aisea Tawake"
 
 
   
-  ### Principle 3: Deliver working software frequently
+### Principle 3: Deliver working software frequently
 
   In this sprint, I was able to complete my assigned issues within two weeks of progress. This allowed more time to help out my collegues on their issues and also keep in constant communication with the client if needed.
 
-  ## What worked well for me?
+## What worked well for me?
 
-  * Ensuring the delivery of a working app, with new features that I have been working on
-  * The ability to help out my collegues with the spare time given to me after completing my assigned issues
-  * Assigning spare time to update a weekly diary and sprint reviews for the current sprint
+* Ensuring the delivery of a working app, with new features that I have been working on
+* The ability to help out my collegues with the spare time given to me after completing my assigned issues
+* Assigning spare time to update a weekly diary and sprint reviews for the current sprint
 
 
 ## What could I improve on?
 
-  * Keep in constant communication with my collegues, while taking on additional tasks when finished with the ones I have been assigned to
+* Keep in constant communication with my collegues, while taking on additional tasks when finished with the ones I have been assigned to
 
 ## What barriers did I need to overcome?
 

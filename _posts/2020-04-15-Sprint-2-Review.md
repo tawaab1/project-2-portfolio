@@ -12,16 +12,16 @@ author: "Aisea Tawake"
 
 ## Agile Implementation
 
-  ### Principle 12: Team Reflection at regular intervals
+### Principle 12: Team Reflection at regular intervals
 
   I am able to make myself available to my collegues wherever possible whether it is physically or electronically. I have made myself every Project class time for meetings/standups. I have also made myself available by email, Microsoft Teams and the audio/video chatting app called Discord.
 
-  ### Principle 4: Business people and developers must work together daily
+### Principle 4: Business people and developers must work together daily
 
   As Project Leader, I have been doing my utmost to keep in constant contact with the client. This sprint I have introduced myself as soon as possible, so the client knows whom they are going to be working with this year. I have also assured my client that I would always be available to be contacted whenever appropriate.
 
 
-  ## What worked well for me?
+## What worked well for me?
 
   * Completing tasks promptly during this sprint.
   * Getting acquainted with the client as soon as I was able to obtain their contact email

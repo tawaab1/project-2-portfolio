@@ -12,27 +12,27 @@ author: "Aisea Tawake"
 
 ## Agile Implementation
 
-  ### Principle 5: Build projects around motivated individuals
+### Principle 5: Build projects around motivated individuals
 
   Although being assigned as overseer over the project, I try to build a sense of camaraderie with my peers to make them feel at ease. Also having a conversational manner helps break down walls and I am able to siphon ideas out of my peers and have them talk freely with me.
 
-  ### Principle 11: Best designs emerge from self organising teams
+### Principle 11: Best designs emerge from self organising teams
 
   I am able to show my team how to organise themselves especially during the installation process for React-Native by noting down some installation instructions on the white board for them to follow. This way everyone knows what they are doing and are not lost in the process. If people are still lost during the process I have also posted some tutorial links on our MS Teams project channel for people to take a look at. I have also made myself available on Teams so my peers can always contact me off-site.
 
 
-  ## What worked well for me?
+## What worked well for me?
 
   Getting communication sorted was a big success this sprint since it will help me on future sprints
 
-  ## What could I improve on?
+## What could I improve on?
 
   Paying attention to my peers strengths and weaknesses, and help them abit more in places where they need assistance
 
-  ## What barriers did I need to overcome?
+## What barriers did I need to overcome?
 
   Revisiting knowledge of the installation for React-Native.
 
-  ## What do I need to do for the next sprint?
+## What do I need to do for the next sprint?
 
   Once I have got React-native installed on my work PC and on my peers PC, I have to prepare the correct version of the Enabling Love app so we can start work as soon as we can.
