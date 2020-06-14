@@ -6,7 +6,14 @@ author: "Aisea Tawake"
 ---
 
 ## Merged Code
-### fix-the-like-button branch
+
+### Simplifying the pages 
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p5.png "Simplifying the pages 1")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p6.png "Simplifying the pages 2")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p7.png "Simplifying the pages 3")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p8.png "Simplifying the pages 4")
+### fixing the like button
+
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p1.png "fix the like button 1")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p2.png "fix the like button 2")
 ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p3.png "fix the like button 3")

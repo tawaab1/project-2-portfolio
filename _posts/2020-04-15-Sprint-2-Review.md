@@ -16,10 +16,17 @@ author: "Aisea Tawake"
 
   I am able to make myself available to my collegues wherever possible whether it is physically or electronically. I have made myself every Project class time for meetings/standups. I have also made myself available by email, Microsoft Teams and the audio/video chatting app called Discord.
 
+ ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p23.png "Helping Ryan Hubbard with an issue")
+
+
 ### Principle 4: Business people and developers must work together daily
 
   As Project Leader, I have been doing my utmost to keep in constant contact with the client. This sprint I have introduced myself as soon as possible, so the client knows whom they are going to be working with this year. I have also assured my client that I would always be available to be contacted whenever appropriate.
 
+ ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p9.png "Contacting the client for the first time")
+  ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p10.png "Keeping constant contact with the client")
+   ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p11.png "Github tabs implemented on teams")
+    ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p12.png "Github tabs implemented on teams")
 
 ## What worked well for me?
 

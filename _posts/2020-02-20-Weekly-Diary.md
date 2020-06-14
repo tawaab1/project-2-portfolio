@@ -26,7 +26,15 @@ author: "Aisea Tawake"
 ## Week Six and Seven
   Because of the current state of this lockdown, we have been ordered to stay home for 4 weeks before we are able to go back to any tertiary educational facility. The polytechnic has also decided to move the mid-term break early to this week and the next. Work on the project has been halted so our team members are able to gather themselves, and are able to ensure their own personal safety before starting back to work on the project. We have been adviced by our supervisor to work on our portfolios while on break and focus on the project once the second half of the semester starts back again.
 
-## Week Seven 
-  Getting in contact with our client is the utmost priority this week. We want to assure them that we can work around this lockdown. We have showed them assurance by sharing information of what we have done so far, what we will be doing in the future but also taking their concerns into consideration, but also apologizing that it has taken time to respond during the lockdown.
 ## Week Eight
-  This week we are starting fresh with a new sprint. I will be focusing my energy to make sure Team standups/meetings are being met, encouraging my collegues during the lockdown and also asking them if there are issues they are having with the project.
+  Getting in contact with our client is the utmost priority this week. We want to assure them that we can work around this lockdown. We have showed them assurance by sharing information of what we have done so far, what we will be doing in the future but also taking their concerns into consideration, but also apologizing that it has taken time to respond during the lockdown.
+
+## Week Nine
+  This week I have been assigned new issues to work on such as working on the Share and Comment sections of the app and also reseaching on the Blog Post text only option (rather than having the user post pictures). I will also be updating the issues of on the github repository, so the team are aware of these changes/additions.
+
+## Week Ten and Eleven
+  This two weeks we are starting fresh with a new sprint. I will be focusing my energy to make sure Team standups/meetings are being met, encouraging my collegues during the lockdown and also asking them if there are issues they are having with the project.
+
+## Week Twelve and Thirteen
+This next two weeks we will moving along with starting a new sprint but focusing on improving on open issues from the last sprint. I will deliberate with the group on where they are at on the issues and if they have any problems that they are facing that they want to bring up. I will also be contacting the client to notify them on where things are at in regards to the app. 
+

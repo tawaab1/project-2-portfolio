@@ -14,7 +14,7 @@ My goal this sprint was being able to fix the like button issue, and removing th
 
 ### Principle 7: Working software is the primary measure of progress
 
-With the help of my collegues I also able to obtain a working version of the app. And assigning one of my collegues to write down a step-by-step guide on how to properly run t he development version of the app, we are finally able to progress in the development phase. I am also able to get the development version of the app working not only on my polytechnic machine but also my home, so I can work on the project from whereever. 
+With the help of my collegues I also able to obtain a working version of the app. And assigning one of my collegues to write down a step-by-step guide on how to properly run the development version of the app, we are finally able to progress in the development phase. I am also able to get the development version of the app working not only on my polytechnic machine but also my home, so I can work on the project from whereever. 
 
 This week I am focusing on fixing the like button issue (where it just showed the icon but it had no functionality) and removing the main screen of the app (which I considered redundant because it only housed buttons which links to the login and sign up page). I managed to get the icon to not only turn red when the Like button was clicked but also increment a Like counter everytime the Like button was pressed (counter also decrements when the button was unclicked).
 

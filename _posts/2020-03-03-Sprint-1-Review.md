@@ -14,16 +14,23 @@ author: "Aisea Tawake"
 
 ### Principle 5: Build projects around motivated individuals
 
-  Although being assigned as overseer over the project, I try to build a sense of camaraderie with my peers to make them feel at ease. Also having a conversational manner helps break down walls and I am able to siphon ideas out of my peers and have them talk freely with me.
+  Although being assigned as team leader over the project, I try to build a sense of camaraderie with my peers to make them feel at ease. Also having a conversational manner helps break down walls and I am able to siphon ideas out of my peers and have them talk freely with me.
+
+
 
 ### Principle 11: Best designs emerge from self organising teams
 
   I am able to show my team how to organise themselves especially during the installation process for React-Native by noting down some installation instructions on the white board for them to follow. This way everyone knows what they are doing and are not lost in the process. If people are still lost during the process I have also posted some tutorial links on our MS Teams project channel for people to take a look at. I have also made myself available on Teams so my peers can always contact me off-site.
 
+  ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p15.png "Tutorial links and asking people if they need help")
+  ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p18.png "Github tabs implemented on teams")
+
 
 ## What worked well for me?
 
   Getting communication sorted was a big success this sprint since it will help me on future sprints
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p14.png "Stand up meeting with Grayson and Jommel")
+![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p16.png "Links to the app and emailing the client")
 
 ## What could I improve on?
 
