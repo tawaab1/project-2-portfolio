@@ -23,7 +23,7 @@ author: "Aisea Tawake"
   I am able to show my team how to organise themselves especially during the installation process for React-Native by noting down some installation instructions on the white board for them to follow. This way everyone knows what they are doing and are not lost in the process. If people are still lost during the process I have also posted some tutorial links on our MS Teams project channel for people to take a look at. I have also made myself available on Teams so my peers can always contact me off-site.
 
   ![alt text](https://github.com/tawaab1/portfolio-images/blob/master/Project%202%20images/p15.png "Tutorial links and asking people if they need help")
-  ![alt text](https://github.com/tawaab1/portfolio-images/blob/master/Project%202%20images/p18.png"Github tabs implemented on teams")
+  ![alt text](https://github.com/tawaab1/portfolio-images/blob/master/Project%202%20images/p18.png "Github tabs implemented on teams")
 
 
 ## What worked well for me?
