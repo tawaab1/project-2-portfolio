@@ -29,7 +29,7 @@ author: "Aisea Tawake"
 ## What worked well for me?
 
   Getting communication sorted was a big success this sprint since it will help me on future sprints
-![alt text](https://drive.google.com/file/d/1Qfw2ZcBlm7FQGrrl0-wiDhjEPGmcPssZ/view "Stand up meeting with Grayson and Jommel")
+![alt text](https://drive.google.com/file/d/1Qfw2ZcBlm7FQGrrl0-wiDhjEPGmcPssZ/view?usp=sharing "Stand up meeting with Grayson and Jommel")
 ![alt text](https://drive.google.com/file/d/1pxfITB16ZOj8-Sp-B9iKNl1Oy2mGDOVw/view "Links to the app and emailing the client")
 
 ## What could I improve on?
