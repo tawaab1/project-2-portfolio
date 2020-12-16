@@ -22,15 +22,15 @@ author: "Aisea Tawake"
 
   I am able to show my team how to organise themselves especially during the installation process for React-Native by noting down some installation instructions on the white board for them to follow. This way everyone knows what they are doing and are not lost in the process. If people are still lost during the process I have also posted some tutorial links on our MS Teams project channel for people to take a look at. I have also made myself available on Teams so my peers can always contact me off-site.
 
-  ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p15.png "Tutorial links and asking people if they need help")
-  ![alt text](http://kate.ict.op.ac.nz/~tawaab1/Project%202%20images/p18.png "Github tabs implemented on teams")
+  ![alt text](https://github.com/tawaab1/portfolio-images/blob/master/Project%202%20images/p15.png "Tutorial links and asking people if they need help")
+  ![alt text](https://github.com/tawaab1/portfolio-images/blob/master/Project%202%20images/p18.png"Github tabs implemented on teams")
 
 
 ## What worked well for me?
 
   Getting communication sorted was a big success this sprint since it will help me on future sprints
-![alt text](https://drive.google.com/file/d/1Qfw2ZcBlm7FQGrrl0-wiDhjEPGmcPssZ/view?usp=sharing "Stand up meeting with Grayson and Jommel")
-![alt text](https://drive.google.com/file/d/1pxfITB16ZOj8-Sp-B9iKNl1Oy2mGDOVw/view "Links to the app and emailing the client")
+![alt text](https://github.com/tawaab1/portfolio-images/blob/master/Project%202%20images/p14.png "Stand up meeting with Grayson and Jommel")
+![alt text](https://github.com/tawaab1/portfolio-images/blob/master/Project%202%20images/p16.png "Links to the app and emailing the client")
 
 ## What could I improve on?
 
